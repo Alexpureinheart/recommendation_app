@@ -14,4 +14,13 @@ a list of possible results.
 catagories could be:
 
 themes -- e.g. Historical, Fashion, Culinary/Food
+locations -- e.g. search based on proximity to specific location 
+keyword/name -- e.g. recommend based on keywords / name
+price -- e.g. recommend in order of price (ascending / descending)
+
+Possible questions:
+What type of attraction are you looking for? - theme 
+Where are you staying? - Locations near me
+Please enter a name or keyword. - Reccomendations based on name 
+Please enter your price range. - price
 
